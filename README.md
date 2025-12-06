@@ -1,16 +1,23 @@
-# React + Vite
+# LAW OFFICE CAVUC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Law Office Čavić – Official Website
 
-Currently, two official plugins are available:
+This project represents the official website of Law Office Čavić, designed to provide clients with clear, accessible, and professional information about legal services, areas of practice, and contact options.
+The goal of this project is to provide clients with a trustworthy and easy-to-navigate platform where they can learn more about the law office and access relevant legal information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# About the Project
 
-## React Compiler
+The website is built to reflect the values of the law office — professionalism, trust, and dedication.
+It includes key information about the firm, attorney profiles, legal services, and ways to get in touch.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Features
 
-## Expanding the ESLint configuration
+Modern and clean design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Responsive layout for all devices
+
+Clear overview of services and legal areas
+
+Contact form for client inquiries
+
+Fast and optimized performance
