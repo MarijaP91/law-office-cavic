@@ -1,0 +1,18 @@
+.practice-list {
+  padding: 2rem 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 100%;
+  justify-content: center;
+}
+
+.practice-list li {
+  font-size: 2.5rem;
+  padding: 2rem;
+  border-bottom: 2px solid var(--font-color-gray);
+}
+
+.practice-list li a {
+  color: var(--font-color-gray);
+}

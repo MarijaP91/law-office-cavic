@@ -1,0 +1,15 @@
+.subheading {
+  font-size: 3.5rem;
+  width: 60%;
+  display: flex;
+  align-items: center;
+}
+a:hover {
+  color: var(--font-color-gray);
+  cursor: pointer;
+}
+
+h2 {
+  width: 50%;
+  margin: 0.5rem;
+}
